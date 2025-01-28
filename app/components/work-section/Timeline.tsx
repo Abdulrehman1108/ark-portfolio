@@ -19,7 +19,7 @@ const TimelineData = [
     ],
 },
 {
-    companyImg: "/Contour-logo.jpg",
+    companyImg: "/new-logo.jpg",
     jobTitle: "Frontend Web Engineer",
     company: "Contour Software Pvt. Ltd.",
     jobType: "Remote",
