@@ -10,42 +10,42 @@ import { ViewProvider } from "@/contexts/ViewContext";
 const kumbhSans = Kumbh_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Adeola Badero — Frontend Software Engineer",
+  title: "Abdul Rehman Khan — Full Stack MERN Software Engineer",
   description:
-    "A Frontend Engineer passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
+    "A Software Engineer passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
   keywords: [
     "frontend",
-    "react",
+    "Next.js",
     "tech",
     "creative developer",
     "UI development",
     "frontend engineer",
     "developer portfolio",
     "creative development",
-    "nigeria",
+    "pakistan",
     "software",
     "software developer",
     "software engineer",
     "portfolio",
   ],
   openGraph: {
-    title: "Adeola Badero — Frontend Software Engineer",
+    title: "Abdul Rehman Khan — Full Stack MERN Software Engineer",
     description:
-      "Frontend Engineer at Bluechip Technologies, passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
-    url: "https://www.adeolabadero.me",
-    siteName: "www.adeolabadero.me",
+      "Frontend Engineer, passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
+    url: "https://ark-portfolio-v1.vercel.app/",
+    siteName: "https://ark-portfolio-v1.vercel.app/",
     images: [
       {
-        url: "https://i.ibb.co/FKMqc28/adeola-badero.png",
+        url: "",
         width: 1200,
         height: 630,
-        alt: "Adeola Badero — Frontend Software Engineer",
+        alt: "https://ark-portfolio-v1.vercel.app/",
       },
       {
-        url: "https://i.ibb.co/Y8hBTR4/ade-800.png",
+        url: "",
         width: 800,
         height: 800,
-        alt: "Adeola Badero — Frontend Software Engineer",
+        alt: "Abdul Rehman Khan — Full Stack MERN Software Engineer",
       },
     ],
     locale: "en-US",
@@ -53,11 +53,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Adeola Badero — Software Engineer",
+    title: "Abdul Rehman Khan — Full Stack MERN Software Engineer",
     description:
-      "Frontend Engineer at Bluechip Technologies, passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
-    creator: "@Ade_the_great",
-    images: ["https://i.ibb.co/FKMqc28/adeola-badero.png"],
+      "Software Engineer , passionate about crafting next-gen software. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
+    creator: "@AbdulRehman1108",
+    images: [""],
   },
   robots: {
     index: true,
