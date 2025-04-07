@@ -44,8 +44,8 @@ const TimelineData = [
     companyImg: "/decimal-logo.jpg",
     jobTitle: "Full Stack Web Developer Intern",
     company: "Decimal Solution",
-    jobType: "Internship",
-    duration: "2024-03 - 2024-09",
+    jobType: "Working",
+    duration: "",
     stuffIDid: [
         "Built and deployed a robust e-commerce solution (Bavli) with the MERN stack, focusing on seamless user interfaces, secure payment integrations, and efficient product management",
         "Delivered end-to-end development for multiple web solutions (Usquare Solutions), including dashboards, client portals, and APIs, utilizing modern web technologies and best practices"

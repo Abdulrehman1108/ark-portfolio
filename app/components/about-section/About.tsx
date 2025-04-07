@@ -50,14 +50,14 @@ export default function About() {
             each one ensuring that I not only put in my best but also deliver
             solutions that businesses are proud to call their own. Wanna learn
             more? Here&apos;s <br className="hidden md:block" />
-            <Link
+            {/* <Link
               className="underline"
               href={
                 "https://drive.google.com/file/d/157xj9DVB2N7Uzo3VOYTP9DEIV4GA9-6z/view?usp=drive_link"
               }
             >
               my résumè
-            </Link>
+            </Link> */}
             .
           </AnimatedBody>
         </div>
